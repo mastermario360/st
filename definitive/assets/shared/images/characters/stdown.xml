@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="stdown.png">
+<SubTexture name="stdown idle0000" x="0" y="741" width="314" height="492" frameX="-350" frameY="-393" frameWidth="900" frameHeight="900" />
+<SubTexture name="stdown see20000" x="314" y="741" width="314" height="492" frameX="-350" frameY="-393" frameWidth="900" frameHeight="900" />
+<SubTexture name="stdown buu20000" x="629" y="741" width="314" height="487" frameX="-350" frameY="-399" frameWidth="900" frameHeight="900" />
+<SubTexture name="stdown down0000" x="492" y="1718" width="369" height="342" frameX="-283" frameY="-542" frameWidth="900" frameHeight="900" />
+<SubTexture name="stdown down0001" x="1726" y="1238" width="354" height="354" frameX="-289" frameY="-530" frameWidth="900" frameHeight="900" />
+<SubTexture name="stdown down0002" x="1726" y="842" width="337" height="395" frameX="-296" frameY="-489" frameWidth="900" frameHeight="900" />
+<SubTexture name="stdown down0003" x="1726" y="442" width="337" height="400" frameX="-296" frameY="-485" frameWidth="900" frameHeight="900" />
+<SubTexture name="stdown up0000" x="425" y="0" width="421" height="738" frameX="-338" frameY="-148" frameWidth="900" frameHeight="900" />
+<SubTexture name="stdown up0001" x="0" y="0" width="425" height="741" frameX="-309" frameY="-146" frameWidth="900" frameHeight="900" />
+<SubTexture name="stdown up0002" x="846" y="0" width="442" height="687" frameX="-262" frameY="-200" frameWidth="900" frameHeight="900" />
+<SubTexture name="stdown up0003" x="1289" y="0" width="437" height="671" frameX="-266" frameY="-216" frameWidth="900" frameHeight="900" />
+<SubTexture name="stdown right0000" x="943" y="741" width="389" height="487" frameX="-311" frameY="-397" frameWidth="900" frameHeight="900" />
+<SubTexture name="stdown right0001" x="908" y="1233" width="382" height="476" frameX="-306" frameY="-408" frameWidth="900" frameHeight="900" />
+<SubTexture name="stdown right0002" x="1332" y="741" width="386" height="476" frameX="-302" frameY="-407" frameWidth="900" frameHeight="900" />
+<SubTexture name="stdown right0003" x="1291" y="1233" width="386" height="476" frameX="-300" frameY="-408" frameWidth="900" frameHeight="900" />
+<SubTexture name="stdown left0000" x="1726" y="0" width="490" height="442" frameX="-187" frameY="-443" frameWidth="900" frameHeight="900" />
+<SubTexture name="stdown left0001" x="0" y="1718" width="492" height="438" frameX="-187" frameY="-447" frameWidth="900" frameHeight="900" />
+<SubTexture name="stdown left0002" x="0" y="1233" width="473" height="485" frameX="-208" frameY="-400" frameWidth="900" frameHeight="900" />
+<SubTexture name="stdown left0003" x="473" y="1233" width="435" height="478" frameX="-248" frameY="-407" frameWidth="900" frameHeight="900" />
+</TextureAtlas>

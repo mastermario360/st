@@ -1,0 +1,18 @@
+{
+  "storyName": "funk like someone is watching",
+  "difficulties": "Hard",
+  "hideFreeplay": false,
+  "weekBackground": "stare",
+  "freeplayColor": [146, 113, 253],
+  "weekBefore": "tutorial",
+  "startUnlocked": true,
+  "weekCharacters": ["", "", ""],
+  "songs": [
+    ["Stare", "stare", [186, 80, 255]],
+    ["Staredown", "thanos", [255, 60, 0]],
+    ["Body Inversion", "edge", [0, 0, 60]]
+  ],
+  "hideStoryMode": false,
+  "weekName": "SATRE",
+  "hiddenUntilUnlocked": false
+}

@@ -1,0 +1,21 @@
+{
+  "animations": [
+    {
+      "offsets": [-329, -173],
+      "loop": false,
+      "fps": 1,
+      "anim": "idle",
+      "indices": [],
+      "name": "angelcrown idle"
+    }
+  ],
+  "no_antialiasing": false,
+  "image": "characters/angelcrown",
+  "position": [-380, -390],
+  "healthicon": "stare",
+  "flip_x": false,
+  "healthbar_colors": [96, 65, 142],
+  "camera_position": [-960, -1000],
+  "sing_duration": 999,
+  "scale": 1.6
+}

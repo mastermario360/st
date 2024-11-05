@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="kerm.png">
+<SubTexture name="kerm idle0000" x="0" y="465" width="340" height="438" frameX="-59" frameY="-282" frameWidth="750" frameHeight="750" />
+<SubTexture name="kerm idle0001" x="669" y="0" width="335" height="448" frameX="-59" frameY="-273" frameWidth="750" frameHeight="750" />
+<SubTexture name="kerm idle0002" x="332" y="0" width="336" height="457" frameX="-59" frameY="-264" frameWidth="750" frameHeight="750" />
+<SubTexture name="kerm idle0003" x="0" y="0" width="332" height="465" frameX="-59" frameY="-256" frameWidth="750" frameHeight="750" />
+<SubTexture name="kerm idle0004" x="340" y="465" width="354" height="430" frameX="-53" frameY="-291" frameWidth="750" frameHeight="750" />
+</TextureAtlas>

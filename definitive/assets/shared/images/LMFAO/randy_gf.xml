@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="randy gf.png">
+<SubTexture name="randy gf idle0000" x="0" y="1390" width="594" height="679" frameX="-56" frameY="-31" frameWidth="750" frameHeight="750" />
+<SubTexture name="randy gf idle0001" x="0" y="710" width="596" height="680" frameX="-56" frameY="-31" frameWidth="750" frameHeight="750" />
+<SubTexture name="randy gf idle0002" x="596" y="710" width="597" height="680" frameX="-56" frameY="-31" frameWidth="750" frameHeight="750" />
+<SubTexture name="randy gf idle0003" x="1194" y="710" width="599" height="680" frameX="-56" frameY="-31" frameWidth="750" frameHeight="750" />
+<SubTexture name="randy gf idle0004" x="1880" y="0" width="580" height="680" frameX="-78" frameY="-31" frameWidth="750" frameHeight="750" />
+<SubTexture name="randy gf lose0000" x="1243" y="1390" width="616" height="655" frameX="-78" frameY="-56" frameWidth="750" frameHeight="750" />
+<SubTexture name="randy gf lose0001" x="0" y="0" width="616" height="710" frameX="-78" frameY="-1" frameWidth="750" frameHeight="750" />
+<SubTexture name="randy gf lose0002" x="1264" y="0" width="616" height="691" frameX="-78" frameY="-20" frameWidth="750" frameHeight="750" />
+<SubTexture name="randy gf win0000" x="2460" y="0" width="648" height="629" frameX="-8" frameY="-82" frameWidth="750" frameHeight="750" />
+<SubTexture name="randy gf win0001" x="616" y="0" width="648" height="704" frameX="-8" frameY="-7" frameWidth="750" frameHeight="750" />
+<SubTexture name="randy gf win0002" x="594" y="1390" width="648" height="676" frameX="-8" frameY="-35" frameWidth="750" frameHeight="750" />
+</TextureAtlas>

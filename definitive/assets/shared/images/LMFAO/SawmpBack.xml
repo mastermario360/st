@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="SawmpBack.png">
+	
+	
+	<SubTexture name="Stage0000" x="2" y="2" width="1280" height="770" />
+
+</TextureAtlas>

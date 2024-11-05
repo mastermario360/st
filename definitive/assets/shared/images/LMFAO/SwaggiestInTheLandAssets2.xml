@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="SwaggiestInTheLandAssets2.png">
+<SubTexture name="Idle0000" x="0" y="0" width="552" height="370" frameX="-11" frameY="-197" frameWidth="576" frameHeight="576" />
+<SubTexture name="Idle0001" x="0" y="0" width="552" height="370" frameX="-11" frameY="-197" frameWidth="576" frameHeight="576" />
+<SubTexture name="Idle0002" x="552" y="0" width="559" height="370" frameX="-17" frameY="-194" frameWidth="576" frameHeight="576" />
+<SubTexture name="Idle0003" x="552" y="0" width="559" height="370" frameX="-17" frameY="-194" frameWidth="576" frameHeight="576" />
+<SubTexture name="Idle0004" x="0" y="370" width="561" height="370" frameX="-11" frameY="-186" frameWidth="576" frameHeight="576" />
+<SubTexture name="Idle0005" x="0" y="370" width="561" height="370" frameX="-11" frameY="-186" frameWidth="576" frameHeight="576" />
+<SubTexture name="Idle0006" x="0" y="370" width="561" height="370" frameX="-11" frameY="-182" frameWidth="576" frameHeight="576" />
+<SubTexture name="Idle0007" x="0" y="370" width="561" height="370" frameX="-11" frameY="-182" frameWidth="576" frameHeight="576" />
+<SubTexture name="Idle0008" x="0" y="370" width="561" height="370" frameX="-11" frameY="-182" frameWidth="576" frameHeight="576" />
+<SubTexture name="Idle0009" x="0" y="370" width="561" height="370" frameX="-11" frameY="-182" frameWidth="576" frameHeight="576" />
+<SubTexture name="Idle0010" x="0" y="740" width="555" height="363" frameX="-17" frameY="-204" frameWidth="576" frameHeight="576" />
+<SubTexture name="Idle0011" x="0" y="740" width="555" height="363" frameX="-17" frameY="-204" frameWidth="576" frameHeight="576" />
+<SubTexture name="Idle0012" x="555" y="740" width="548" height="360" frameX="-14" frameY="-196" frameWidth="576" frameHeight="576" />
+<SubTexture name="Idle0013" x="555" y="740" width="548" height="360" frameX="-14" frameY="-196" frameWidth="576" frameHeight="576" />
+<SubTexture name="Idle0014" x="561" y="370" width="539" height="361" frameX="-31" frameY="-200" frameWidth="576" frameHeight="576" />
+<SubTexture name="Idle0015" x="561" y="370" width="539" height="361" frameX="-31" frameY="-200" frameWidth="576" frameHeight="576" />
+<SubTexture name="Idle0016" x="1111" y="0" width="537" height="359" frameX="-33" frameY="-207" frameWidth="576" frameHeight="576" />
+<SubTexture name="Idle0017" x="1111" y="0" width="537" height="359" frameX="-33" frameY="-207" frameWidth="576" frameHeight="576" />
+</TextureAtlas>

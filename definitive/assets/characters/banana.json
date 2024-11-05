@@ -1,0 +1,21 @@
+{
+  "animations": [
+    {
+      "offsets": [0, -2],
+      "loop": true,
+      "fps": 24,
+      "anim": "idle",
+      "indices": [],
+      "name": "banana idle"
+    }
+  ],
+  "no_antialiasing": false,
+  "image": "characters/banana",
+  "position": [-1500, -340],
+  "healthicon": "",
+  "flip_x": false,
+  "healthbar_colors": [165, 0, 77],
+  "camera_position": [-20, -140],
+  "sing_duration": 4,
+  "scale": 5.4
+}

@@ -1,0 +1,19 @@
+{
+  "storyName": "Your New Week",
+  "difficulties": "normal",
+  "hideFreeplay": false,
+  "weekBackground": "frog",
+  "weekBefore": "weekfrog",
+  "freeplayColor": [146, 113, 253],
+  "startUnlocked": true,
+  "hideStoryMode": true,
+  "songs": [
+    ["Madness", "stare", [255, 0, 15]],
+    ["Starehardy", "crowcrown", [0, 0, 20]],
+    ["Stare Reimagined", "stare", [146, 113, 253]],
+    ["Stare Remix", "stare", [146, 113, 253]]
+  ],
+  "weekCharacters": ["", "", ""],
+  "hiddenUntilUnlocked": false,
+  "weekName": "Week Lore"
+}

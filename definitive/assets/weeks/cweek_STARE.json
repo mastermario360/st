@@ -1,0 +1,18 @@
+{
+  "storyName": "Funk like somebody's watching",
+  "difficulties": "Normal",
+  "hideFreeplay": false,
+  "weekBackground": "stare2",
+  "weekBefore": "tutorial",
+  "freeplayColor": [146, 113, 253],
+  "startUnlocked": true,
+  "hideStoryMode": false,
+  "songs": [
+    ["Unblinking", "stare", [95, 55, 255]],
+    ["Overzealous", "thanos", [255, 40, 60]],
+    ["outwards in", "edge", [80, 0, 175]]
+  ],
+  "weekCharacters": ["", "", ""],
+  "hiddenUntilUnlocked": false,
+  "weekName": "Stare"
+}

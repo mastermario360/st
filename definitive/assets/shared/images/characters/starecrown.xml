@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="starecrown.png">
+<SubTexture name="thanos idle0000" x="1745" y="495" width="314" height="492" frameX="-350" frameY="-393" frameWidth="900" frameHeight="900" />
+<SubTexture name="thanos see0000" x="1303" y="504" width="314" height="492" frameX="-350" frameY="-393" frameWidth="900" frameHeight="900" />
+<SubTexture name="thanos buu0000" x="0" y="1252" width="314" height="487" frameX="-350" frameY="-399" frameWidth="900" frameHeight="900" />
+<SubTexture name="thanos left0000" x="1303" y="0" width="441" height="504" frameX="-239" frameY="-381" frameWidth="900" frameHeight="900" />
+<SubTexture name="thanos left0001" x="1745" y="0" width="452" height="495" frameX="-230" frameY="-390" frameWidth="900" frameHeight="900" />
+<SubTexture name="thanos left0002" x="314" y="1252" width="446" height="482" frameX="-238" frameY="-403" frameWidth="900" frameHeight="900" />
+<SubTexture name="thanos right0000" x="0" y="730" width="397" height="521" frameX="-308" frameY="-362" frameWidth="900" frameHeight="900" />
+<SubTexture name="thanos right0001" x="397" y="730" width="398" height="512" frameX="-307" frameY="-371" frameWidth="900" frameHeight="900" />
+<SubTexture name="thanos right0002" x="796" y="730" width="401" height="508" frameX="-303" frameY="-375" frameWidth="900" frameHeight="900" />
+<SubTexture name="thanos down0000" x="1439" y="1252" width="361" height="340" frameX="-286" frameY="-544" frameWidth="900" frameHeight="900" />
+<SubTexture name="thanos down0001" x="1097" y="1252" width="341" height="360" frameX="-297" frameY="-525" frameWidth="900" frameHeight="900" />
+<SubTexture name="thanos down0002" x="760" y="1252" width="337" height="376" frameX="-297" frameY="-509" frameWidth="900" frameHeight="900" />
+<SubTexture name="thanos up0000" x="0" y="0" width="430" height="730" frameX="-337" frameY="-156" frameWidth="900" frameHeight="900" />
+<SubTexture name="thanos up0001" x="430" y="0" width="434" height="716" frameX="-307" frameY="-171" frameWidth="900" frameHeight="900" />
+<SubTexture name="thanos up0002" x="864" y="0" width="439" height="703" frameX="-282" frameY="-183" frameWidth="900" frameHeight="900" />
+</TextureAtlas>

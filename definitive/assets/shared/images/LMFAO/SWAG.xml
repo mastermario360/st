@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="SWAG.png">
+<SubTexture name="SWAG idle0000" x="0" y="0" width="417" height="523" frameX="-244" frameY="-201" frameWidth="750" frameHeight="750" />
+<SubTexture name="SWAG idle0001" x="417" y="0" width="419" height="522" frameX="-242" frameY="-202" frameWidth="750" frameHeight="750" />
+<SubTexture name="SWAG idle0002" x="836" y="0" width="421" height="521" frameX="-240" frameY="-204" frameWidth="750" frameHeight="750" />
+<SubTexture name="SWAG idle0003" x="0" y="523" width="422" height="519" frameX="-238" frameY="-205" frameWidth="750" frameHeight="750" />
+<SubTexture name="SWAG idle0004" x="422" y="523" width="423" height="519" frameX="-237" frameY="-206" frameWidth="750" frameHeight="750" />
+<SubTexture name="SWAG idle0005" x="1257" y="0" width="421" height="512" frameX="-249" frameY="-213" frameWidth="750" frameHeight="750" />
+</TextureAtlas>

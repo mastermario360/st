@@ -1,0 +1,95 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "My my, whom do I have the displeasure of meeting tonight?",
+			"boxState": "normal",
+			"portrait": "zardy",
+			"speed": 0.045
+		},
+		{
+			"expression": "talk",
+			"text": "But of course!",
+			"boxState": "normal",
+			"portrait": "zardy",
+			"speed": 0.045
+		},
+		{
+			"expression": "talk",
+			"text": "It's only two little crows, without their wings~",
+			"boxState": "angry",
+			"portrait": "zardy",
+			"speed": 0.045
+		}
+		{
+			"expression": "talk",
+			"text": "Wings you'll soon get VERY used to.",
+			"boxState": "normal",
+			"portrait": "zardy",
+			"speed": 0.045
+		},
+		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
+			"portrait": "zardy",
+			"speed": 0.045
+		},
+		{
+			"expression": "talk",
+			"text": "This land is off limits to anyone, especially ones with noise canons like yourself.",
+			"boxState": "normal",
+			"portrait": "zardy",
+			"speed": 0.045
+		},
+		{
+			"expression": "talk",
+			"text": "I've known this for most of my four years of life, ever since my purpose was made clear from the Greater.",
+			"boxState": "normal",
+			"portrait": "zardy",
+			"speed": 0.045
+		},
+		{
+			"expression": "talk",
+			"text": "And now, the watchful guardian has tasked me with your termination, even if he knows me not.",
+			"boxState": "normal",
+			"portrait": "zardy",
+			"speed": 0.045
+		},
+		{
+			"expression": "talk",
+			"text": "I would NEVER let my idol down.",
+			"boxState": "normal",
+			"portrait": "zardy",
+			"speed": 0.045
+		},
+		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
+			"portrait": "zardy",
+			"speed": 0.045
+		},
+		{
+			"expression": "talk",
+			"text": "Time for another demonstration of the sacred art form we all know so well,",
+			"boxState": "normal",
+			"portrait": "zardy",
+			"speed": 0.045
+		},
+		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
+			"portrait": "zardy",
+			"speed": 0.045
+		},
+		{
+			"expression": "talk",
+			"text": "Body Inversion outta keep you away from these fields forever.",
+			"boxState": "normal",
+			"portrait": "zardy",
+			"speed": 0.045
+		},
+	]
+}

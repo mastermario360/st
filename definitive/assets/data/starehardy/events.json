@@ -1,0 +1,52 @@
+{
+  "song": {
+    "events": [
+      [18900, [["Screen Shake", "0.3, 0.02", "0.3, 0.02"]]],
+      [19200, [["Set Cam Zoom", "1.1", ""]]],
+      [76800, [["Set Cam Zoom", "0.8", ""]]],
+      [95700, [["Screen Shake", "0.5, 0.03", "0.5, 0.03"]]],
+      [96000, [["Set Cam Zoom", "1.1", ""]]],
+      [115200, [["Set Cam Zoom", "0.7", ""]]],
+      [134400, [["Set Cam Zoom", "1.1", ""]]],
+      [154800, [["Set Cam Zoom", "0.8", ""]]],
+      [
+        181950,
+        [
+          ["Screen Shake", "1, 0.021", "0.4, 0.022"],
+          ["Play Animation", "scared", "GF"],
+          ["Play Animation", "scared", "BF"],
+          ["Flash Camera", "0.5", ""],
+          ["Goodbye", "", ""],
+          ["Opponent Fade", "1", "50"]
+        ]
+      ],
+      [182400, [["Set Cam Zoom", "1.1", ""]]],
+      [187200, [["Set Cam Zoom", "1.1", ""]]],
+      [201600, [["Opponent Fade", "1", "40"]]],
+      [
+        220800,
+        [
+          ["Set Cam Zoom", "0.8", ""],
+          ["Flash Camera", "0.5", ""],
+          ["Screen Shake", "0.8, 0.04", "0.8, 0.04"],
+          ["Opponent Fade", "1", "0"]
+        ]
+      ],
+      [222000, [["Set Cam Zoom", "1.2", ""]]],
+      [
+        222600,
+        [
+          ["playsound", "yeah!", "0.3"],
+          ["Play Animation", "hey", "bf"]
+        ]
+      ],
+      [
+        223200,
+        [
+          ["Set Cam Zoom", "0.8", ""],
+          ["Play Animation", "idle", "bf"]
+        ]
+      ]
+    ]
+  }
+}

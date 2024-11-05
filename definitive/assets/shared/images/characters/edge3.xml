@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="edge3.png">
+<SubTexture name="edge3 idle0000" x="2132" y="864" width="422" height="821" frameX="-230" frameY="-74" frameWidth="900" frameHeight="900" />
+<SubTexture name="edge3 down0000" x="506" y="2629" width="531" height="662" frameX="-160" frameY="-234" frameWidth="900" frameHeight="900" />
+<SubTexture name="edge3 down0001" x="0" y="2629" width="506" height="683" frameX="-175" frameY="-213" frameWidth="900" frameHeight="900" />
+<SubTexture name="edge3 down0002" x="2178" y="1776" width="468" height="705" frameX="-193" frameY="-191" frameWidth="900" frameHeight="900" />
+<SubTexture name="edge3 down0003" x="2699" y="744" width="452" height="740" frameX="-201" frameY="-156" frameWidth="900" frameHeight="900" />
+<SubTexture name="edge3 up0000" x="0" y="0" width="685" height="897" frameX="-61" frameY="-1" frameWidth="900" frameHeight="900" />
+<SubTexture name="edge3 up0001" x="1467" y="0" width="665" height="887" frameX="-79" frameY="-10" frameWidth="900" frameHeight="900" />
+<SubTexture name="edge3 up0002" x="536" y="897" width="644" height="874" frameX="-95" frameY="-24" frameWidth="900" frameHeight="900" />
+<SubTexture name="edge3 up0003" x="1180" y="897" width="611" height="864" frameX="-121" frameY="-33" frameWidth="900" frameHeight="900" />
+<SubTexture name="edge3 left0000" x="0" y="897" width="536" height="879" frameX="-61" frameY="-13" frameWidth="900" frameHeight="900" />
+<SubTexture name="edge3 left0001" x="2132" y="0" width="566" height="864" frameX="-98" frameY="-28" frameWidth="900" frameHeight="900" />
+<SubTexture name="edge3 left0002" x="778" y="1776" width="643" height="846" frameX="-162" frameY="-46" frameWidth="900" frameHeight="900" />
+<SubTexture name="edge3 left0003" x="2699" y="1484" width="682" height="729" frameX="-175" frameY="-163" frameWidth="900" frameHeight="900" />
+<SubTexture name="edge3 right0000" x="685" y="0" width="781" height="888" frameX="-50" frameY="-7" frameWidth="900" frameHeight="900" />
+<SubTexture name="edge3 right0001" x="0" y="1776" width="778" height="853" frameX="-49" frameY="-43" frameWidth="900" frameHeight="900" />
+<SubTexture name="edge3 right0002" x="1421" y="1776" width="757" height="815" frameX="-49" frameY="-80" frameWidth="900" frameHeight="900" />
+<SubTexture name="edge3 right0003" x="2699" y="0" width="752" height="744" frameX="-49" frameY="-151" frameWidth="900" frameHeight="900" />
+</TextureAtlas>

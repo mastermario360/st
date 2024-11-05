@@ -1,0 +1,14 @@
+{
+  "storyName": "LORE",
+  "difficulties": "Normal",
+  "hideFreeplay": false,
+  "weekBackground": "frog",
+  "weekBefore": "weekfrog",
+  "freeplayColor": [146, 113, 253],
+  "startUnlocked": true,
+  "hideStoryMode": true,
+  "songs": [["Lore", "criador", [255, 155, 175]]],
+  "weekCharacters": ["", "", ""],
+  "hiddenUntilUnlocked": false,
+  "weekName": "Week Lore"
+}

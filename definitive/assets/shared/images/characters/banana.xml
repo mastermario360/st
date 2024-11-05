@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="banana.png">
+<SubTexture name="banana idle0000" x="213" y="299" width="212" height="294" />
+<SubTexture name="banana idle0001" x="0" y="299" width="213" height="297" />
+<SubTexture name="banana idle0002" x="0" y="0" width="215" height="299" />
+<SubTexture name="banana idle0003" x="215" y="0" width="215" height="299" />
+<SubTexture name="banana idle0004" x="431" y="0" width="215" height="299" />
+</TextureAtlas>

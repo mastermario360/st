@@ -1,0 +1,14 @@
+{
+  "storyName": "That Funkin' Frog",
+  "difficulties": "Hard",
+  "hideFreeplay": false,
+  "weekBackground": "stare",
+  "freeplayColor": [146, 113, 253],
+  "weekBefore": "frog",
+  "startUnlocked": true,
+  "weekCharacters": ["", "", ""],
+  "songs": [["Operation Frogsong", "fred", [106, 255, 0]]],
+  "hideStoryMode": false,
+  "weekName": "FROG",
+  "hiddenUntilUnlocked": false
+}
