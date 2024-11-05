@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="portraits.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="content" x="50" y="0" width="300" height="350"/>
+	<SubTexture name="confused" x="400" y="0" width="300" height="350"/>
+	<SubTexture name="PISSED" x="750" y="0" width="300" height="350"/>
+	<SubTexture name="happy" x="1150" y="0" width="300" height="350"/>
+	<SubTexture name="dad" x="1450" y="0" width="350" height="350"/>
+
+	<SubTexture name="bfPortEnter00" x="11" y="682" width="406" height="240"/>
+	<SubTexture name="bfPortHappy00" x="439" y="670" width="402" height="249"/>
+	<SubTexture name="bfPortSad00" x="235" y="928" width="340" height="262"/>
+	
+	</TextureAtlas>
